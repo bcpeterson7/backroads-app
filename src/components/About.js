@@ -13,9 +13,9 @@ const About = () => {
         <article className='about-info'>
           <h3>explore the difference</h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
+            Lorem ipsums, dolor sit amet consectetur adipisicing elit.
+            Aspernatur quisquam harum nam cumque temporibus explicabo dolorum
+            sapiente odio unde dolor?
           </p>
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
